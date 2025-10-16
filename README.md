@@ -144,10 +144,12 @@ VS Code Screenshots
 This project successfully demonstrates real-time data handling, user authentication, and responsive UI development using modern JavaScript technologies.
 
 ## 👨‍💻 Author
-
 **Vasantha Kumar**  
-📧 [vk042966@gmail.com](mailto:vk042966@gmail.com)  
-💼 [GitHub Profile](https://github.com/VasanthaKumar1980)
+## Contact
+- GitHub: [VasanthaKumar1980](https://github.com/VasanthaKumar1980)  
+- Netlify: [Live Demo](https://realtimestockticker.netlify.app/)  
+- Email: vk042966@gmail.com
+
 
 ---
 
