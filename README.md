@@ -16,6 +16,23 @@ Built using **React + Vite**, styled with **Tailwind CSS**, and powered by **Sup
 
 ---
 
+
+## 📚 Table of Contents
+1. [Introduction](#introduction)
+2. [Objectives](#objectives)
+3. [Features](#features)
+4. [Tech Stack](#tech-stack)
+5. [System Architecture](#system-architecture)
+6. [Folder Structure](#folder-structure)
+7. [Installation & Setup](#installation--setup)
+8. [Screenshots](#screenshots)
+9. [Challenges & Solutions](#challenges--solutions)
+10. [Future Enhancements](#future-enhancements)
+11. [Deployment Links](#deployment-links)
+12. [Conclusion](#conclusion)
+13. [Author](#author)
+14. [License](#license)
+
 ## 🛠️ Tech Stack
 
 | Category | Technology |
@@ -83,15 +100,24 @@ realtime-stock-ticker/
 
 ## 🖼️ Screenshots
 
-| Desktop Dashboard View | Mobile Responsive View |
-|-------------------------|------------------------|
-| ![Desktop Dashboard](./screenshots/Screenshot-2025-10-12-142808.png) | ![Mobile View](./screenshots/phone1.jpg) |
+ Desktop Dashboard View 
+ <br><br>
+ <img width="1920" height="1080" alt="Screenshot 2025-10-12 142808" src="https://github.com/user-attachments/assets/e8c9bfd9-df88-4b79-9190-8935949759de" />
+ <br><br>
+ <img width="1920" height="1080" alt="Screenshot 2025-10-12 142808" src="https://github.com/user-attachments/assets/ff9dbf28-bebd-44b5-86d9-953f3192cdf5" />
+ Mobile Responsive View
+ <br><br>
+ ![phone1](https://github.com/user-attachments/assets/f736ed81-22d7-4b47-a06a-f96926ec2f30)
 
-| Alternate Desktop Layout | Watchlist + Ticker View |
-|---------------------------|-------------------------|
-| ![Dashboard Layout](./screenshots/Screenshot-2025-10-12-122631.png) | ![Ticker View](./screenshots/Screenshot-2025-10-12-142808.png) |
+<br><br>
 
----
+
+ Netlify DashBoard
+ <br><br>
+ <img width="1920" height="1080" alt="Screenshot 2025-10-13 220331" src="https://github.com/user-attachments/assets/c5f0d1fa-613c-4c0f-be12-e6073184981e" />
+<br><br>
+VS Code Screenshots
+<img width="1920" height="1080" alt="Screenshot 2025-10-12 153759" src="https://github.com/user-attachments/assets/8ff3cc66-b06d-45f4-acc4-e0089172ffec" />
 
 ## 💡 Challenges & Solutions
 
@@ -112,6 +138,10 @@ realtime-stock-ticker/
 - ⭐ Include watchlist & notification alerts
 
 ---
+
+🏁 Conclusion
+
+This project successfully demonstrates real-time data handling, user authentication, and responsive UI development using modern JavaScript technologies.
 
 ## 👨‍💻 Author
 
